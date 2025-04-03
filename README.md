@@ -1,4 +1,4 @@
-# 24F Group Project Backend - Merge Conflict Mafia
+# Team 5 Group Project Backend
 
 Welcome to the **Merge Conflict Mafia Backend**! This project is built using **Node.js** and **Express**, providing a RESTful API for user and ticket management. Below you will find all the instructions to clone, install, and run the project, as well as the available API routes.
 
